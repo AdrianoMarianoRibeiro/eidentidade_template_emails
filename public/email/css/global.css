@@ -1,0 +1,57 @@
+:root {
+  /* fonts */
+  --e-id-tipografia-b2-button: Inter;
+  --e-id-tipografia-h3-header: Montserrat;
+  --font-inherit: inherit;
+
+  /* font sizes */
+  --e-id-tipografia-c2-caption-size: 12px;
+  --e-id-tipografia-b2-button-size: 14px;
+  --e-id-tipografia-s2-subtitle1-size: 16px;
+  --e-id-tipografia-s1-subtitle-size: 18px;
+  --e-id-tipografia-h4-header-size: 20px;
+  --e-id-tipografia-h3-header-size: 24px;
+  --font-size-4xl: 36px;
+
+  /* Colors */
+  --white: #fff;
+  --e-id-cores-cinza-outline: #717171;
+  --e-id-cores-azul-padro: #007cad;
+  --e-id-cores-light-mode-branco-midground: #fafafa;
+  --e-id-cores-light-mode-preto-texto-padro: #15181b;
+  --e-id-cores-cinza-shadow: #e6f7fe;
+  --e-id-cores-preto-texto-padro: #3d4043;
+  --color-darkslategray-200: #324054;
+  --e-id-cores-amarelo-aviso: #f95c01;
+  --banner-red: #ff472e;
+  --e-id-cores-branco-midground: #f8f8f8;
+  --e-id-cores-cinza-texto-secundrio: #71839b;
+
+  /* Gaps */
+  --gap-2xs: 8px;
+  --gap-xs: 10px;
+  --gap-sm: 12px;
+  --gap-md: 16px;
+  --gap-lg: 24px;
+  --gap-xl: 32px;
+
+  /* Paddings */
+  --padding-3xs: 2px;
+  --padding-2xs: 6px;
+  --padding-xs: 8px;
+  --padding-sm: 10px;
+  --padding-md: 12px;
+  --padding-lg: 16px;
+  --padding-xl: 20px;
+  --padding-2xl: 24px;
+
+  /* border radiuses */
+  --br-xs: 4px;
+  --br-sm: 7.27px;
+  --br-md: 50px;
+  --br-lg: 2000px;
+
+  /* Effects */
+  --e-id-elevaes-elevao-02: 0px 4px 8px rgba(61, 64, 67, 0.3);
+  --e-id-elevaes-elevao-01: 0px 4px 4px rgba(61, 64, 67, 0.2);
+}

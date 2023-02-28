@@ -1,0 +1,310 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+.icon {
+  position: relative;
+  width: 288px;
+  height: 80px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.john-doe-um {
+  align-self: stretch;
+  position: relative;
+  line-height: 32px;
+  font-weight: 600;
+}
+.header {
+  align-self: stretch;
+  background-color: var(--e-id-cores-azul-padro);
+  box-shadow: var(--e-id-elevaes-elevao-01);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-2xl) var(--padding-lg) 32px;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.web-devicesamico-icon {
+  position: relative;
+  width: 399.4px;
+  height: 350px;
+  flex-shrink: 0;
+}
+.detalhes-do-dispositivo {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--e-id-tipografia-s1-subtitle-size);
+  line-height: 28px;
+  font-weight: 600;
+}
+.s-174205h {
+  color: var(--e-id-cores-azul-padro);
+}
+.tipo-de-dispositivo {
+  color: var(--e-id-cores-light-mode-preto-texto-padro);
+}
+.tipo-de-dispositivo-android-g {
+  margin-bottom: 0;
+}
+.data-e-hora-da-conexo-1701 {
+  margin: 0;
+  padding-left: 21px;
+}
+.data-e-hora-container {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+  z-index: 0;
+}
+.data-e-hora-da-conexo-1701-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-inherit);
+  font-family: var(--font-inherit);
+}
+.cone-icon {
+  position: relative;
+  width: 12px;
+  height: 12px;
+  flex-shrink: 0;
+  display: none;
+}
+.texto {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.botes {
+  align-self: stretch;
+  border-radius: var(--br-xs);
+  background-color: var(--e-id-cores-azul-padro);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-md) var(--padding-2xl);
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-xs);
+  color: var(--white);
+  font-family: var(--e-id-tipografia-b2-button);
+}
+.clicando-aqui1 {
+  text-decoration: underline;
+}
+.span {
+  font-family: var(--e-id-tipografia-h3-header);
+}
+.clicando-aqui {
+  color: var(--e-id-cores-azul-padro);
+  font-family: var(--e-id-tipografia-b2-button);
+}
+.se-voc-no-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+  color: var(--e-id-cores-cinza-outline);
+}
+.body-1 {
+  align-self: stretch;
+  background-color: var(--e-id-cores-light-mode-branco-midground);
+  box-shadow: var(--e-id-elevaes-elevao-02);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-2xl) var(--padding-lg);
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.se-voc-tiver {
+  align-self: stretch;
+  position: relative;
+  line-height: 20px;
+}
+.vector-icon {
+  position: relative;
+  width: 15.92px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.whatsapp,
+.whatsapp-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.whatsapp {
+  justify-content: flex-start;
+  gap: var(--gap-2xs);
+}
+.whatsapp-wrapper {
+  flex: 1;
+  border-radius: var(--br-xs);
+  background-color: var(--e-id-cores-light-mode-branco-midground);
+  box-shadow: var(--e-id-elevaes-elevao-01);
+  padding: var(--padding-xs) var(--padding-lg);
+  justify-content: center;
+}
+.vector-icon1 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.central-de-ajuda {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.central-de-suporte-wrapper {
+  flex: 1;
+  border-radius: var(--br-xs);
+  background-color: var(--e-id-cores-light-mode-branco-midground);
+  box-shadow: var(--e-id-elevaes-elevao-01);
+  border: 1px solid var(--e-id-cores-light-mode-branco-midground);
+  display: flex;
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-lg);
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+  text-align: left;
+}
+.body-2 {
+  background-color: var(--white);
+  box-shadow: var(--e-id-elevaes-elevao-02);
+  overflow: hidden;
+  padding: var(--padding-2xl) var(--padding-lg);
+  align-items: center;
+  gap: var(--gap-lg);
+}
+.body-2,
+.corpo,
+.corpo-do-e-mail {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.corpo-do-e-mail {
+  align-items: flex-start;
+  gap: var(--gap-md);
+}
+.corpo {
+  padding: 0 var(--padding-lg);
+  align-items: center;
+  font-size: var(--e-id-tipografia-b2-button-size);
+  color: var(--e-id-cores-light-mode-preto-texto-padro);
+}
+.e-identidade-2023-todos {
+  align-self: stretch;
+  position: relative;
+  line-height: 18px;
+  font-weight: 500;
+}
+.e-identidade-2023-todos-direi-wrapper,
+.futter-inner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.e-identidade-2023-todos-direi-wrapper {
+  flex: 1;
+  flex-direction: column;
+}
+.futter-inner {
+  align-self: stretch;
+  flex-direction: row;
+}
+.eidentidadebr {
+  position: relative;
+  line-height: 18px;
+}
+.instagram {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-2xs);
+}
+.vector-icon3 {
+  position: relative;
+  width: 16.04px;
+  height: 16px;
+  flex-shrink: 0;
+}
+.instagram-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  justify-content: center;
+  gap: var(--gap-lg);
+  text-align: left;
+}
+.futter1 {
+  background-color: var(--e-id-cores-azul-padro);
+  width: 600px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-md) var(--padding-lg);
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+}
+.voc-est-recebendo {
+  flex: 1;
+  position: relative;
+}
+.voc-est-recebendo-esse-e-mai-wrapper {
+  width: 600px;
+  display: flex;
+  flex-direction: row;
+  padding: 0 var(--padding-lg);
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 8px;
+  color: var(--e-id-cores-cinza-outline);
+  font-family: var(--e-id-tipografia-b2-button);
+}
+.futter,
+.usurio-entrou-em-novo-disposi {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.futter {
+  padding: 0 0 var(--padding-xs);
+  align-items: flex-start;
+  gap: var(--gap-2xs);
+  font-size: var(--e-id-tipografia-c2-caption-size);
+}
+.usurio-entrou-em-novo-disposi {
+  position: relative;
+  background-color: var(--white);
+  width: 100%;
+  overflow: hidden;
+  align-items: center;
+  gap: var(--gap-md);
+  text-align: center;
+  font-size: var(--e-id-tipografia-h3-header-size);
+  color: var(--white);
+  font-family: var(--e-id-tipografia-h3-header);
+}
